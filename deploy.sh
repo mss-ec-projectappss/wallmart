@@ -6,7 +6,5 @@ echo "display the content"
 echo "display the calender"
 cal
 echo "added new code"
-display	:wq
-echo "Hello"
-Hi I'm from dev b
-development
+echo "idisplay	:wq"
+echo "Hi I'm from dev b"
