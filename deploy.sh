@@ -7,4 +7,4 @@ echo "display the calender"
 cal
 echo "added new code"
 display	:wq
-
+echo "Hello"
