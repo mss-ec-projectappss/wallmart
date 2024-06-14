@@ -8,3 +8,5 @@ cal
 echo "added new code"
 display	:wq
 echo "Hello"
+Hi I'm from dev b
+development
