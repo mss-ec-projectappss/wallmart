@@ -12,5 +12,8 @@ echo "Hi I'm from dev b"
 =======
 display	:wq
 Hi I'm from dev branch
+<<<<<<< HEAD
+>>>>>>> 5198f36 (addedcode)
+=======
 >>>>>>> 5198f36 (addedcode)
 echo "hello.sh file is required"
