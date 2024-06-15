@@ -8,3 +8,4 @@ cal
 echo "added new code"
 display	:wq
 Hi I'm from dev branch
+echo "hello.sh file is required"
