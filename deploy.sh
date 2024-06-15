@@ -6,20 +6,6 @@ echo "display the content"
 echo "display the calender"
 cal
 echo "added new code"
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 echo "idisplay	:wq"
 echo "Hi I'm from dev b"
-=======
-display	:wq
-
->>>>>>> 34eb05d (added)
-=======
-display	:wq
-
->>>>>>> 34eb05d (added)
-=======
-display	:wq
-
->>>>>>> 34eb05d (added)
+echo "hello.sh file is required"
